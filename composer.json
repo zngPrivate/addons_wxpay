@@ -1,0 +1,16 @@
+{
+    "name": "zng/wxpay",
+    "type": "library",
+    "description": "微信企业现金红包， 裂变红包，转账零钱",
+    "keywords": [
+        "wechat",
+        "pay",
+        "sdk",
+        "wxpay"
+    ],
+    "license": "MIT",
+    "version": "v1.0",
+    "autoload": {
+        "psr-4": {"zng\\wxpay\\": "src/"}
+    }
+}
